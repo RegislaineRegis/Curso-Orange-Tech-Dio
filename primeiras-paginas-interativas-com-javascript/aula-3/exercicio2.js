@@ -20,7 +20,7 @@
 const peso = 100;
 const altura = 1.70;
 // const IMC = peso / (altura * altura);
-const IMC = peso / Math.pow(altura, 2);
+const IMC = peso / Math.pow(altura, 2); // coloca seu valor (altura), e a qtidade de vezes ao quadrado(2)
 
 console.log("Seu IMC é de:\n", IMC);
 
