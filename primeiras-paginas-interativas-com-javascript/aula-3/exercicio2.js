@@ -19,7 +19,8 @@
 
 const peso = 100;
 const altura = 1.70;
-const IMC = peso / (altura * altura);
+// const IMC = peso / (altura * altura);
+const IMC = peso / Math.pow(altura, 2);
 
 console.log("Seu IMC é de:\n", IMC);
 
