@@ -8,3 +8,10 @@
 Imprima no console o valor que será gasto para realizar esta viagem
 */
 
+const precoCombustivel = 6.03;
+const kmPorLitro = 14;
+const distanciaEmKm = 100;
+
+const valorGasto = (distanciaEmKm/kmPorLitro) * precoCombustivel;
+
+console.log("Você terá uma gasto nesta viagem de:", valorGasto.toFixed(2));
