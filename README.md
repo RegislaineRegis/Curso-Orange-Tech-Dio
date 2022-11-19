@@ -5,7 +5,7 @@ O Orange tech + é um projeto para me desenvolver mais em front-end e back-end. 
 
       `Requisitos Obrigatórios`
     - [x] [1. Primeiros Passos com JavaScript](#1-#Primeiros-passos-com-JavaScript)
-    - [ ] [2. Conhecendo Funções JavaScript](#2-#Conhecendo-funções-JavaScript)
+    - [x] [2. Conhecendo Funções JavaScript](#2-#Conhecendo-funções-JavaScript)
     - [ ] [3. Criando Objetos e Classes em JavaScript](#3-#Criando-Objetos-e-Classes-em-JavaScript)
     - [ ] [4. Arrays e Estruturas de Repetição em JavaScript](#4-#Arrays-e-Estruturas-de-Repetição-em-JavaScript)
     - [ ] [5. Importação e Exportação JavaScript](#5-#Importação-e-Exportação-JavaScript)
